@@ -1,0 +1,14 @@
+{
+  "name": "integration-example-bitbucket-nodejs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv-vault-core": "^0.6.1"
+  }
+}
